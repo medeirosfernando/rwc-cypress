@@ -7,5 +7,9 @@
     "user": {
         "email": "rwc-test@email.com",
         "password": "12345678"
+    },
+    "reporter": "junit",
+    "reporterOptions": {
+        "mochaFile": "cypress/reports/junit-[hash].xml"
     }
 }
