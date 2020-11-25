@@ -31,5 +31,5 @@ steps:
   inputs:
     testResultsFiles: '**/junit-*.xml'
     mergeTestResults: true
-    testRunTitle: 'Agilizei Bootcamp N2'
+    testRunTitle: 'Agilizei Bootcamp N02'
   continueOnError: true
