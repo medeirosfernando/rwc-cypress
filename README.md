@@ -14,7 +14,6 @@ Projeto desenvolvido para o bootcamp da semana agilizei - https://agilizei.com/a
 
   - faker js
   
-  
 # Desafio
 
   - Criar teste para cadastrar novo usuário
@@ -39,17 +38,15 @@ Projeto desenvolvido para o bootcamp da semana agilizei - https://agilizei.com/a
 
 Caso deseje visualizar a reprodução dos vídeos após executar os testes em modo headless, basta acessar o diretório cypress/videos. A seguir segue gif com testes executados em modo headless via console do VScode. 
 
-Cadastro
-video cadastro - https://user-images.githubusercontent.com/25454762/100291391-6ac93500-2f5c-11eb-878c-e51659213b20.gif
+  - Vídeo cadastro - https://user-images.githubusercontent.com/25454762/100291391-6ac93500-2f5c-11eb-878c-e51659213b20.gif
 
-Login
-video login - https://user-images.githubusercontent.com/25454762/100291392-6bfa6200-2f5c-11eb-9c1e-bc1184fbe327.gif
+  - Vídeo login - https://user-images.githubusercontent.com/25454762/100291392-6bfa6200-2f5c-11eb-9c1e-bc1184fbe327.gif
 
-Artigos
-video Artigos - https://user-images.githubusercontent.com/25454762/100291387-669d1780-2f5c-11eb-9c50-715046f03394.gif
+  - Vídeo Artigos - https://user-images.githubusercontent.com/25454762/100291387-669d1780-2f5c-11eb-9c50-715046f03394.gif
 
 
 ### Azure Pipeline + Reports
+
 O projeto está configurado para rodar em uma pipeline da azure.
 
 https://dev.azure.com/fernandomede/Agilizei%20Bootcamp%20N2/_build/results?buildId=4&view=results
