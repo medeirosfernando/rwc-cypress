@@ -24,6 +24,10 @@ class Cadastro {
             expect(resListUser.response.statusCode).to.eq(200)
             expect(resListUser.response.body.user).to.have.property('token')
         })
+        cy.wait(`@${routes.as.getTags}`).then((resTags) => {
+            expect(resTags.response.statusCode).to.eq(200)
+            expect(resTags.response.body.tags).to.have.lengthOf(20)
+        })
     }
 }
 
