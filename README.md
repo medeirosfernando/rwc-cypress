@@ -49,6 +49,6 @@ Caso deseje visualizar a reprodução dos vídeos após executar os testes em mo
 
 O projeto está configurado para rodar em uma pipeline da azure.
 
-https://dev.azure.com/fernandomede/Agilizei%20Bootcamp%20N2/_build/results?buildId=4&view=results
+![N|Solid](https://dev.azure.com/fernandomede/Agilizei%20Bootcamp%20N2/_build/results?buildId=4&view=results)
 
 
