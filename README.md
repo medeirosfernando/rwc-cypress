@@ -36,13 +36,14 @@ Projeto desenvolvido para o bootcamp da semana agilizei - https://agilizei.com/a
     - Firefox: [npm run cy:run:firefox]
 
 
-Caso deseje visualizar a reprodução dos vídeos após executar os testes em modo headless, basta acessar o diretório cypress/videos. A seguir segue gif com testes executados em modo headless via console do VScode. 
+Caso deseje visualizar a reprodução dos vídeos após executar os testes em modo headless, basta acessar o diretório cypress/videos. 
+A seguir seguem gifs com testes executados em modo headless via console do VScode. 
 
-  - Vídeo cadastro - https://user-images.githubusercontent.com/25454762/100291391-6ac93500-2f5c-11eb-878c-e51659213b20.gif
+  - Cadastro - https://user-images.githubusercontent.com/25454762/100291391-6ac93500-2f5c-11eb-878c-e51659213b20.gif
 
-  - Vídeo login - https://user-images.githubusercontent.com/25454762/100291392-6bfa6200-2f5c-11eb-9c1e-bc1184fbe327.gif
+  - Login - https://user-images.githubusercontent.com/25454762/100291392-6bfa6200-2f5c-11eb-9c1e-bc1184fbe327.gif
 
-  - Vídeo Artigos - https://user-images.githubusercontent.com/25454762/100291387-669d1780-2f5c-11eb-9c50-715046f03394.gif
+  - Artigos - https://user-images.githubusercontent.com/25454762/100291387-669d1780-2f5c-11eb-9c50-715046f03394.gif
 
 
 ### Azure Pipeline + Reports
