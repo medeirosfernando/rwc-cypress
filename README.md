@@ -10,7 +10,7 @@ Projeto desenvolvido para o bootcamp da semana agilizei - https://agilizei.com/a
   - NodeJS @ v14.15.0
   - NPM @ 6.14.8
 
-# Dependecias
+# Dependências
 
   - faker js
   
@@ -50,7 +50,7 @@ video login
 Artigos
 video Artigos
 
-# Azure Pipeline + Reports
+### Azure Pipeline + Reports
 O projeto está configurado para rodar em uma pipeline da azure.
 
 https://dev.azure.com/fernandomede/Agilizei%20Bootcamp%20N2/_build/results?buildId=4&view=results
