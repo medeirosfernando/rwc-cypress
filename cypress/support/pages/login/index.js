@@ -1,3 +1,5 @@
+import routes from '../../routes'
+
 const el = require('./elements').ELEMENTS
 
 class Login {
@@ -13,6 +15,13 @@ class Login {
 
     submeterFormulario() {
         cy.get(el.buttonSubmit).click()
+    }
+
+    verificarLoginUser() {
+        cy.wait(`@${routes.as.postUsersLogin}`).then((resPostLogin) => {
+            expect(resPostLogin.response.statusCode).to.eq(200)
+            expect(resPostLogin.response.body.user).to.have.property('email', 'rwc-test@email.com')
+        })
     }
 }
 

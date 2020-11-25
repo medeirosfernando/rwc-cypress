@@ -1,3 +1,5 @@
+import routes from '../../routes'
+
 const faker = require('faker')
 const el = require('./elements').ELEMENTS
 
@@ -15,6 +17,13 @@ class Cadastro {
 
     submeterFormulario() {
         cy.get(el.buttonSubmit).click()
+    }
+
+    verificarNovoCadastro() {
+        cy.wait(`@${routes.as.postListUser}`).then((resListUser) => {
+            expect(resListUser.response.statusCode).to.eq(200)
+            expect(resListUser.response.body.user).to.have.property('token')
+        })
     }
 }
 
