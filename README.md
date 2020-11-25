@@ -39,14 +39,16 @@ Projeto desenvolvido para o bootcamp da semana agilizei - https://agilizei.com/a
 Caso deseje visualizar a reprodução dos vídeos após executar os testes em modo headless, basta acessar o diretório cypress/videos. 
 A seguir seguem gifs com testes executados em modo headless via console do VScode. 
 
-  - Testes em modo headless via console do VsCode - ![agilizei-rwc-run-testes](https://user-images.githubusercontent.com/25454762/100291909-d069f100-2f5d-11eb-80ff-0a06207020ce.gif)
+  - Testes em modo headless via console do VsCode ![agilizei-rwc-run-testes](https://user-images.githubusercontent.com/25454762/100291909-d069f100-2f5d-11eb-80ff-0a06207020ce.gif)
+  
+  - Testes executados no Azure DevOps ![agilizei-azure](https://user-images.githubusercontent.com/25454762/100292727-132cc880-2f60-11eb-9575-bbd4259a79cd.gif)
 
   - Vídeo da página de Cadastro ![agilizei-cadastro](https://user-images.githubusercontent.com/25454762/100291391-6ac93500-2f5c-11eb-878c-e51659213b20.gif)
 
   - Vídeo da página de Login ![agilizei-login](https://user-images.githubusercontent.com/25454762/100291392-6bfa6200-2f5c-11eb-9c1e-bc1184fbe327.gif)
 
   - Vídeo da página de Artigos ![agilizei-artigos](https://user-images.githubusercontent.com/25454762/100291387-669d1780-2f5c-11eb-9c50-715046f03394.gif)
-
+  
 
 ### Azure Pipeline + Reports
 
